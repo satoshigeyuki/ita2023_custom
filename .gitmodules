@@ -1,0 +1,4 @@
+[submodule "plags-scripts"]
+	path = plags-scripts
+	url = git@github.com:plags-org/plags-scripts.git
+	ignore = dirty
